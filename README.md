@@ -1,3 +1,7 @@
+## Project Purpose
+
+The purpose of this project is to practise professional software development tools, including GitHub, version control, testing, and documentation. The project uses a simple Python log analyser to identify failed login attempts and suspicious IP addresses.
+
 # Software Tools Log Analyser
 
 ## Project Overview
